@@ -60,4 +60,4 @@ This shows the intensity of the word and the amount of time it is been tweeted u
 
 
 ## Interact with the Dashboard
-**👉🏾[Love, Damini](https://www.novypro.com/project/love-damini-twitter-analysis)**
+## 👉🏾[Love, Damini](https://www.novypro.com/project/love-damini-twitter-analysis)
