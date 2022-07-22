@@ -25,3 +25,16 @@ A total of 95,676 tweet were made by real Twitter account.
 8,058 Retweet.
 33,324 total number of users were engaged on the topic.
 ![alt text](https://github.com/kiddojazz/Love-Damini/blob/master/damini/2022-07-21_21-24-14.png)
+
+### Love, Damini Tweet Mentioned
+This was done to compare the % of Love, Damini mentioned against others.
+![alt text](https://github.com/kiddojazz/Love-Damini/blob/master/damini/2022-07-21_21-25-56.png)
+
+### Number of Users by Followers Count
+This is done to know the total number of users by follower count.
+![alt text](https://github.com/kiddojazz/Love-Damini/blob/master/damini/2022-07-21_21-26-36.png)
+
+### Love, Damini Sentiment Score
+This is done to know what fan and users on Twitter Thnink about the album.
+The Sentiment score was broken downn into 4 sessions *positve, Negative, Neutral and Mixed*
+![alt text](https://github.com/kiddojazz/Love-Damini/blob/master/damini/2022-07-21_21-27-24.png)
