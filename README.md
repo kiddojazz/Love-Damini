@@ -34,6 +34,14 @@ This was done to compare the % of Love, Damini mentioned against others.
 This is done to know the total number of users by follower count.
 ![alt text](https://github.com/kiddojazz/Love-Damini/blob/master/damini/2022-07-21_21-26-36.png)
 
+### Top Fans
+The top fan categories was determined by the number of time a real users Tweeted about the album with #Lovedamini.
+![alt text](https://github.com/kiddojazz/Love-Damini/blob/master/damini/2022-07-21_21-28-21.png)
+
+### Tweet by Location
+This shows the location that have the highest number of Tweet.
+![alt text](https://github.com/kiddojazz/Love-Damini/blob/master/damini/2022-07-21_21-28-43.png)
+
 ### Love, Damini Sentiment Score
 This is done to know what fan and users on Twitter Thnink about the album.
 The Sentiment score was broken downn into 4 sessions *positve, Negative, Neutral and Mixed*
