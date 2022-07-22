@@ -58,6 +58,6 @@ This shows the intensity of the word and the amount of time it is been tweeted u
 ### Full Dashboard
 ![alt text](https://github.com/kiddojazz/Love-Damini/blob/master/damini/2022-07-22_08-42-09.png)
 
-
+---
 ## Interact with the Dashboard
 ## 👉🏾[Love, Damini](https://www.novypro.com/project/love-damini-twitter-analysis)
