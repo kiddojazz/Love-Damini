@@ -46,3 +46,14 @@ This shows the location that have the highest number of Tweet.
 This is done to know what fan and users on Twitter Thnink about the album.
 The Sentiment score was broken downn into 4 sessions *positve, Negative, Neutral and Mixed*
 ![alt text](https://github.com/kiddojazz/Love-Damini/blob/master/damini/2022-07-21_21-27-24.png)
+
+### Tweet Trend
+This shows a trend of tweet by days 
+![alt text](https://github.com/kiddojazz/Love-Damini/blob/master/damini/2022-07-21_21-29-56.png)
+
+### WordCloud
+This shows the intensity of the word and the amount of time it is been tweeted upon.
+![alt text](https://github.com/kiddojazz/Love-Damini/blob/master/damini/2022-07-21_21-29-08.png)
+
+### Full Dashboard
+![alt text](https://github.com/kiddojazz/Love-Damini/blob/master/damini/2022-07-22_08-42-09.png)
