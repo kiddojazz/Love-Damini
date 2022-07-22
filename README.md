@@ -24,4 +24,4 @@ For this project the key-word used for the search_query was "#LoveDamini".
 A total of 95,676 tweet were made by real Twitter account.
 8,058 Retweet.
 33,324 total number of users were engaged on the topic.
-![alt text]([image.jpg](https://github.com/kiddojazz/Love-Damini/blob/master/damini/2022-07-21_21-24-14.png)
+![alt text](https://github.com/kiddojazz/Love-Damini/blob/master/damini/2022-07-21_21-24-14.png)
